@@ -1,0 +1,312 @@
+{"time":"2024-01-09T23:13:45.575-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:13:45.576-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:13:45.576-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:13:45.576-0600","message":"Starting Quantum Safe Decryption Service","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:17:08.525-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:17:08.525-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:17:08.525-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:17:08.525-0600","message":"Starting Quantum Safe Decryption Service","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:19:16.587-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:19:16.587-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:19:16.587-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:19:16.587-0600","message":"Starting Quantum Safe Decryption Service","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:20:55.402-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:20:55.403-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:20:55.403-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:20:55.403-0600","message":"Starting Quantum Safe Decryption Service","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:20:55.403-0600","message":"Inverse of public key: [[0 0 0] [0 0 0] [0 0 0]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:20:55.403-0600","message":"Public key: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:21:42.253-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:21:42.254-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:21:42.254-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:21:42.254-0600","message":"Starting Quantum Safe Decryption Service","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:21:42.254-0600","message":"Inverse of public key: [[0 0 0] [0 0 0] [0 0 0]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:21:42.254-0600","message":"Public key: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:22:29.550-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:22:29.551-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:22:29.551-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:22:29.551-0600","message":"Starting Quantum Safe Decryption Service","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:22:29.551-0600","message":"Determinant: 6297","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:22:29.551-0600","message":"Inverse of public key: [[0 0 0] [0 0 0] [0 0 0]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:22:29.551-0600","message":"Public key: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:23:27.167-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:23:27.168-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:23:27.168-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:23:27.168-0600","message":"Starting Quantum Safe Decryption Service","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:23:27.168-0600","message":"Determinant of matrix: 6297","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:23:27.168-0600","message":"Inverse of public key: [[0 0 0] [0 0 0] [0 0 0]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:23:27.168-0600","message":"Public key: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:24:31.095-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:24:31.096-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:24:31.096-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:24:31.096-0600","message":"Starting Quantum Safe Decryption Service","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:24:31.096-0600","message":"Calculating inverse of matrix: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:24:31.096-0600","message":"Determinant of matrix: 6297","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:24:31.096-0600","message":"Inverse of public key: [[0 0 0] [0 0 0] [0 0 0]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:24:31.096-0600","message":"Public key: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:25:02.516-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:25:02.516-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:25:02.516-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:25:02.516-0600","message":"Starting Quantum Safe Decryption Service","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:25:02.516-0600","message":"Calculating inverse of matrix: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:25:02.516-0600","message":"Determinant of matrix: 6297","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:25:02.516-0600","message":"Inverse of public key: [[1.8456407813244402 2.2634587898999525 0.4414800698745434] [1.2229633158646975 1.5083373034778467 0.28823249166269654] [-0.09909480705097666 -0.11481657932348738 -0.01699221851675401]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:25:02.517-0600","message":"Public key: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:36:43.171-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:36:43.172-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:36:43.172-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:36:43.172-0600","message":"Calculated 'r' value: {X:10761 Y:-72084 Z:328191}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:39:39.994-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:39:39.995-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:39:39.995-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:39:39.995-0600","message":"Calculated 'r' value: {X:10761 Y:-72084 Z:328191}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:47:01.853-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:47:01.853-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:47:01.853-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:51:46.610-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:51:46.611-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:51:46.611-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:51:46.611-0600","message":"Determinant of matrix: 6297","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.269-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Determinant of matrix: 6297","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:71.99999999999943 Y:3.3706371027619753e-13 Z:-2.0261570199409107e-14}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-8623.901540416076 Y:-5885.216293473084 Z:429.8739082102589}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-4031.1993012545677 Y:-2801.6750833730343 Z:212.0778148324599}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-12933.49039225028 Y:-8661.032396379227 Z:590.5699539463237}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-6898.448467524221 Y:-4660.537398761316 Z:323.23884389391776}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-6590.877084325872 Y:-4511.844211529302 Z:330.59742734635546}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-8655.272034302052 Y:-5821.495950452597 Z:399.88708909004293}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-11901.357948229317 Y:-8044.445926631729 Z:569.8648562807685}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-5419.858504049548 Y:-3753.2043830395423 Z:284.75750357313}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-5387.5596315705925 Y:-3699.228680323963 Z:271.76830236620617}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-5757.10751151342 Y:-3957.992853739878 Z:292.66349055105593}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-8515.587263776404 Y:-5732.077656026679 Z:395.1456249007465}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-13820.06495156424 Y:-9314.202477370176 Z:654.3122121645227}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-14120.720343020486 Y:-9465.959504525965 Z:649.8708909004289}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-8860.321422899797 Y:-6011.461648404003 Z:429.2051770684454}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-5093.464348102271 Y:-3452.9218675559787 Z:239.7430522471018}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-6789.351278386535 Y:-4584.344449737971 Z:317.1530887724313}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-12297.51691281563 Y:-8322.364459266319 Z:593.161981896141}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-8380.67397173257 Y:-5729.396855645545 Z:421.39860250913136}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-14372.788311894556 Y:-9692.56503096713 Z:683.0289026520564}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-321.66809591869225 Y:-262.6646021915197 Z:17.962045418453197}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-10314.336191837385 Y:-6936.3292043830415 Z:478.9240908369065}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.270-0600","message":"Decrypted Vector: {X:-4882.767825948865 Y:-3357.039066222011 Z:246.12847387644914}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-5127.464983325395 Y:-3561.2172463077663 Z:272.76322058122906}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-12613.346831824681 Y:-8482.276798475466 Z:589.0119104335398}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-12561.123709703035 Y:-8442.525011910433 Z:584.6777830713038}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-5681.187708432589 Y:-3844.28442115293 Z:266.4597427346355}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-10696.453072891854 Y:-7229.678894711768 Z:510.635064316341}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-6242.293631888203 Y:-4225.53882801334 Z:294.5728124503732}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-12904.04144830872 Y:-8709.273463554071 Z:614.5659838018103}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-10148.491980308087 Y:-6857.770843258695 Z:483.12037478164194}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-5048.497379704621 Y:-3477.2815626488814 Z:257.7918056217245}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-3392.270922661588 Y:-2341.9790376369706 Z:170.10179450531996}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-4621.9736382404335 Y:-3158.741781800858 Z:225.66301413371446}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-11816.501826266478 Y:-7968.349213911386 Z:558.9329839606162}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-10235.374781642053 Y:-6890.273463554074 Z:477.8993171351437}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:1993.544703827219 Y:1249.2872796569798 Z:-75.79434651421315}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-9090.973638240432 Y:-6141.741781800859 Z:430.6630141337144}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-9365.345561378435 Y:-6312.686040971893 Z:438.97157376528503}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-12932.701286326825 Y:-8700.098141972367 Z:605.265840876608}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-13877.724948388126 Y:-9316.101000476418 Z:643.2671113228521}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-1286.288073685883 Y:-919.9542639352071 Z:67.64633952675872}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-10163.777989518821 Y:-6828.765126250598 Z:469.45116722248684}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-12052.587581387967 Y:-8112.225345402573 Z:564.65570906781}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-7419.216293473087 Y:-5047.576464983325 Z:362.36731777036675}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-9814.97776719073 Y:-6654.661743687471 Z:475.29410830554235}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-09T23:55:41.271-0600","message":"Decrypted Vector: {X:-13892.791329204387 Y:-9309.968080038112 Z:637.8747022391616}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T00:04:20.721-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T00:04:20.721-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T00:04:20.721-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T00:04:20.721-0600","message":"Public Key: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T00:04:20.721-0600","message":"Determinant of matrix: 6297","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T00:04:20.721-0600","message":"Inverse Public Key: [[1.8456407813244402 2.2634587898999525 0.4414800698745434] [1.2229633158646975 1.5083373034778467 0.28823249166269654] [-0.09909480705097666 -0.11481657932348738 -0.01699221851675401]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:48:50.594-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:48:50.595-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:48:50.595-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:48:50.595-0600","message":"Public Key: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:48:50.595-0600","message":"Determinant of matrix: 6297","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:48:50.595-0600","message":"Inverse Public Key: [[1.8456407813244402 2.2634587898999525 0.4414800698745434] [1.2229633158646975 1.5083373034778467 0.28823249166269654] [-0.09909480705097666 -0.11481657932348738 -0.01699221851675401]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:49:11.160-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:49:11.161-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:49:11.161-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:49:11.161-0600","message":"Public Key: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:49:11.161-0600","message":"Determinant of matrix: 6297","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:49:11.161-0600","message":"Inverse Public Key: [[1.8456407813244402 2.2634587898999525 0.4414800698745434] [1.2229633158646975 1.5083373034778467 0.28823249166269654] [-0.09909480705097666 -0.11481657932348738 -0.01699221851675401]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:49:38.081-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:49:38.082-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:49:38.082-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:49:38.082-0600","message":"Public Key: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:49:38.082-0600","message":"Determinant of matrix: 6297","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:49:38.082-0600","message":"Inverse Public Key: [[1.8456407813244402 2.2634587898999525 0.4414800698745434] [1.2229633158646975 1.5083373034778467 0.28823249166269654] [-0.09909480705097666 -0.11481657932348738 -0.01699221851675401]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:49:38.083-0600","message":"Decrypted Vector: {X:32.2996665078602 Y:-45.65507384468807 Z:4.735588375416823}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.665-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.666-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.666-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.666-0600","message":"Public Key: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.666-0600","message":"Determinant of matrix: 6297","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.666-0600","message":"Inverse Public Key: [[1.8456407813244402 2.2634587898999525 0.4414800698745434] [1.2229633158646975 1.5083373034778467 0.28823249166269654] [-0.09909480705097666 -0.11481657932348738 -0.01699221851675401]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.666-0600","message":"Encrypted Vector: {X:-981 Y:1395 Z:-1668}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.666-0600","message":"Encrypted Vector: {X:6934 Y:-10059 Z:4270}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.666-0600","message":"Encrypted Vector: {X:3871 Y:-5475 Z:3976}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.668-0600","message":"Encrypted Vector: {X:4462 Y:-7368 Z:-8954}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.668-0600","message":"Encrypted Vector: {X:2794 Y:-4413 Z:-3461}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.668-0600","message":"Encrypted Vector: {X:5175 Y:-7518 Z:3201}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.668-0600","message":"Encrypted Vector: {X:3102 Y:-5051 Z:-5457}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.668-0600","message":"Encrypted Vector: {X:7255 Y:-10884 Z:-266}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.668-0600","message":"Encrypted Vector: {X:5694 Y:-8016 Z:6237}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.668-0600","message":"Encrypted Vector: {X:4160 Y:-6038 Z:2582}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:4940 Y:-7069 Z:3770}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:3185 Y:-5158 Z:-4939}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:7669 Y:-11686 Z:-2231}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:5601 Y:-9013 Z:-7971}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:5600 Y:-8355 Z:575}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:1739 Y:-2838 Z:-3037}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:2572 Y:-4120 Z:-3788}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:8055 Y:-11985 Z:1137}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:7088 Y:-10247 Z:5141}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:8384 Y:-12679 Z:-1381}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:-785 Y:1095 Z:-1841}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:4250 Y:-6762 Z:-5242}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:3716 Y:-5364 Z:2126}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:5673 Y:-7968 Z:6741}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:5877 Y:-9190 Z:-4803}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:5639 Y:-8865 Z:-5356}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:1980 Y:-3230 Z:-3366}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:6183 Y:-9334 Z:-1002}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:2575 Y:-4068 Z:-2828}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:7521 Y:-11374 Z:-1137}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.669-0600","message":"Encrypted Vector: {X:5639 Y:-8551 Z:-1501}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.670-0600","message":"Encrypted Vector: {X:4194 Y:-6039 Z:3213}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.670-0600","message":"Encrypted Vector: {X:2072 Y:-3025 Z:383}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.670-0600","message":"Encrypted Vector: {X:2444 Y:-3699 Z:-502}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.670-0600","message":"Encrypted Vector: {X:6313 Y:-9653 Z:-2447}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.670-0600","message":"Encrypted Vector: {X:4502 Y:-7090 Z:-4435}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.670-0600","message":"Encrypted Vector: {X:-421 Y:894 Z:2912}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.670-0600","message":"Encrypted Vector: {X:4667 Y:-7142 Z:-2266}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.670-0600","message":"Encrypted Vector: {X:4228 Y:-6616 Z:-3749}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.670-0600","message":"Encrypted Vector: {X:6258 Y:-9719 Z:-4407}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.670-0600","message":"Encrypted Vector: {X:6044 Y:-9561 Z:-6463}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.670-0600","message":"Encrypted Vector: {X:266 Y:-423 Z:-637}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.670-0600","message":"Decrypted Vector: {X:32.2996665078602 Y:-45.65507384468807 Z:4.735588375416823}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.670-0600","message":"Encrypted Vector: {X:3849 Y:-6223 Z:-5988}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.670-0600","message":"Encrypted Vector: {X:5809 Y:-9021 Z:-4115}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.671-0600","message":"Encrypted Vector: {X:4794 Y:-7128 Z:918}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.671-0600","message":"Encrypted Vector: {X:6340 Y:-9442 Z:892}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:50:13.671-0600","message":"Encrypted Vector: {X:5322 Y:-8614 Z:-8334}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.589-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.590-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.590-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.590-0600","message":"Public Key: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.590-0600","message":"Determinant of matrix: 6297","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.590-0600","message":"Inverse Public Key: [[1.8456407813244402 2.2634587898999525 0.4414800698745434] [1.2229633158646975 1.5083373034778467 0.28823249166269654] [-0.09909480705097666 -0.11481657932348738 -0.01699221851675401]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.590-0600","message":"Encrypted Vector: {X:-981 Y:1395 Z:-1668}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.590-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.590-0600","message":"Encrypted Vector: {X:6934 Y:-10059 Z:4270}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.590-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.590-0600","message":"Encrypted Vector: {X:3871 Y:-5475 Z:3976}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.590-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.590-0600","message":"Encrypted Vector: {X:4462 Y:-7368 Z:-8954}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Encrypted Vector: {X:2794 Y:-4413 Z:-3461}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Encrypted Vector: {X:5175 Y:-7518 Z:3201}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Encrypted Vector: {X:3102 Y:-5051 Z:-5457}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Encrypted Vector: {X:7255 Y:-10884 Z:-266}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Encrypted Vector: {X:5694 Y:-8016 Z:6237}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Encrypted Vector: {X:4160 Y:-6038 Z:2582}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Encrypted Vector: {X:4940 Y:-7069 Z:3770}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Encrypted Vector: {X:3185 Y:-5158 Z:-4939}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Encrypted Vector: {X:7669 Y:-11686 Z:-2231}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Encrypted Vector: {X:5601 Y:-9013 Z:-7971}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Encrypted Vector: {X:5600 Y:-8355 Z:575}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Encrypted Vector: {X:1739 Y:-2838 Z:-3037}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.591-0600","message":"Encrypted Vector: {X:2572 Y:-4120 Z:-3788}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Encrypted Vector: {X:8055 Y:-11985 Z:1137}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Encrypted Vector: {X:7088 Y:-10247 Z:5141}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Encrypted Vector: {X:8384 Y:-12679 Z:-1381}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Encrypted Vector: {X:-785 Y:1095 Z:-1841}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Encrypted Vector: {X:4250 Y:-6762 Z:-5242}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Encrypted Vector: {X:3716 Y:-5364 Z:2126}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Encrypted Vector: {X:5673 Y:-7968 Z:6741}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Encrypted Vector: {X:5877 Y:-9190 Z:-4803}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Encrypted Vector: {X:5639 Y:-8865 Z:-5356}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.592-0600","message":"Encrypted Vector: {X:1980 Y:-3230 Z:-3366}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Encrypted Vector: {X:6183 Y:-9334 Z:-1002}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Encrypted Vector: {X:2575 Y:-4068 Z:-2828}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Encrypted Vector: {X:7521 Y:-11374 Z:-1137}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Encrypted Vector: {X:5639 Y:-8551 Z:-1501}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Encrypted Vector: {X:4194 Y:-6039 Z:3213}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Encrypted Vector: {X:2072 Y:-3025 Z:383}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Encrypted Vector: {X:2444 Y:-3699 Z:-502}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Encrypted Vector: {X:6313 Y:-9653 Z:-2447}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.593-0600","message":"Encrypted Vector: {X:4502 Y:-7090 Z:-4435}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Encrypted Vector: {X:-421 Y:894 Z:2912}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Encrypted Vector: {X:4667 Y:-7142 Z:-2266}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Encrypted Vector: {X:4228 Y:-6616 Z:-3749}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Encrypted Vector: {X:6258 Y:-9719 Z:-4407}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Encrypted Vector: {X:6044 Y:-9561 Z:-6463}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Encrypted Vector: {X:266 Y:-423 Z:-637}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Decrypted Vector: {X:32.2996665078602 Y:-45.65507384468807 Z:4.735588375416823}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Decrypted Character: 32","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Encrypted Vector: {X:3849 Y:-6223 Z:-5988}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Encrypted Vector: {X:5809 Y:-9021 Z:-4115}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Encrypted Vector: {X:4794 Y:-7128 Z:918}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.594-0600","message":"Encrypted Vector: {X:6340 Y:-9442 Z:892}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.595-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.595-0600","message":"Encrypted Vector: {X:5322 Y:-8614 Z:-8334}","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T01:53:55.595-0600","message":"Decrypted Character: 0","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T15:53:09.421-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T15:53:09.422-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T15:53:09.422-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T15:53:09.422-0600","message":"Public Key: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T15:53:09.422-0600","message":"Determinant of matrix: 6297","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T15:53:09.422-0600","message":"Inverse Public Key: [[1.8456407813244402 2.2634587898999525 0.4414800698745434] [1.2229633158646975 1.5083373034778467 0.28823249166269654] [-0.09909480705097666 -0.11481657932348738 -0.01699221851675401]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T16:05:12.513-0600","message":"Logger initialized","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T16:05:12.513-0600","message":"%s, %v\nserviceNameMessageSERVICE_NAME is not set, using Melina as default","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T16:05:12.513-0600","message":"Logger set to debug level","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T16:05:12.513-0600","message":"Public Key: [[47 -77 -85] [-49 78 50] [57 -78 99]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T16:05:12.513-0600","message":"Determinant of matrix: 6297","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
+{"time":"2024-01-10T16:05:12.513-0600","message":"Inverse Public Key: [[1.8456407813244402 2.2634587898999525 0.4414800698745434] [1.2229633158646975 1.5083373034778467 0.28823249166269654] [-0.09909480705097666 -0.11481657932348738 -0.01699221851675401]]","hostname":"Daniels-MacBook-Pro-3.local","serviceName":"Quantum Safe"}
