@@ -1,3 +1,4 @@
+// data.go contains the data structures used in the main.go file
 package main
 
 type CharVector struct {

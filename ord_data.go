@@ -1,3 +1,4 @@
+// ord_data.go is a file that contains the ord character data.
 package main
 
 // Define all ord character data in a single file.
